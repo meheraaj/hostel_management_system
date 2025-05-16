@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  border: 0;
+}
+
+.bg {
+  background-color: #23262c;
+  color: white;
+}
