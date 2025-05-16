@@ -1,5 +1,8 @@
-![Project Progress](https://img.shields.io/badge/Project%20Progress-20%25%20Completed-blue?style=flat-square)
-[(https://hostel-management-system-ievv.vercel.app/)](https://hostel-management-system-ievv.vercel.app/) 
+<img src="https://img.shields.io/badge/Project%20Progress-30%25%20Completed-blue?style=flat-square" alt="Project Progress" width="1000">
+
+
+
+## DEMO --  [https://hostel-management-system-ievv.vercel.app/](https://hostel-management-system-ievv.vercel.app/) 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
