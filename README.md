@@ -1,3 +1,6 @@
+![Project Progress](https://img.shields.io/badge/Project%20Progress-20%25%20Completed-blue?style=flat-square)
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
